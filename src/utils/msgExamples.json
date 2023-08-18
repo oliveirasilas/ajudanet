@@ -1,0 +1,169 @@
+[
+  {
+    "descricao": "#1 Exemplo de payload do tipo broadcast",
+    "payload": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": false,
+        "id": "9FE11206A3729D49FD982E9CA26A4AE4",
+        "participant": "556292066444@s.whatsapp.net"
+      },
+      "messageTimestamp": 1692197931,
+      "pushName": "Silas Oliveira",
+      "broadcast": true,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Gratidão, meu Deus, por teu infinito amor",
+          "textArgb": 4294967295,
+          "backgroundArgb": 4283943423,
+          "font": "SANS_SERIF",
+          "previewType": "NONE",
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        }
+      }
+    }
+  },
+  {
+    "descricao": "#2 Exemplo de payload de mensagem com imagem e legenda",
+    "payload": {
+      "key": {
+        "remoteJid": "556292066444@s.whatsapp.net",
+        "fromMe": false,
+        "id": "A2E14B9DA70F0770666D7EC252EB73AA"
+      },
+      "messageTimestamp": 1692198037,
+      "pushName": "Silas Oliveira",
+      "broadcast": false,
+      "message": {
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7118-24/25347400_2476476819175222_8734389546741859323_n.enc?ccb=11-4&oh=01_AdRXdbm0GMQJEKpqLib1lJJiaE6AUh_RLssiFMsyWyU-JA&oe=650469C4&mms3=true",
+          "mimetype": "image/jpeg",
+          "caption": "Teste",
+          "fileSha256": "KMHTF2mXzD749PfafNdo7sOp2hoMIQROTWPW6hPnfpM=",
+          "fileLength": "57471",
+          "height": 1480,
+          "width": 720,
+          "mediaKey": "tJhXDQywzFvg3LAqq+A4iCt2OsCzd5N9qMdktAwdo+M=",
+          "fileEncSha256": "hhdq2EI10HeaFIUkOshtUwhwUg40zGpi5kynDQjfxjI=",
+          "directPath": "/v/t62.7118-24/25347400_2476476819175222_8734389546741859323_n.enc?ccb=11-4&oh=01_AdRXdbm0GMQJEKpqLib1lJJiaE6AUh_RLssiFMsyWyU-JA&oe=650469C4",
+          "mediaKeyTimestamp": "1692198036",
+          "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIwMBIgACEQEDEQH/xAAwAAEBAQEBAQEAAAAAAAAAAAAAAQQCAwUGAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/aAAwDAQACEAMQAAAA/MlIogNWu3Lr5npwZH0CcneD1tndGbia6mJF+bF+awAAAAP/xAAhEAACAgIBBAMAAAAAAAAAAAAAAQIRAyESEBMxQSAwUf/aAAgBAQABPwD5Uyn+FdMeG1ZHHFaY4KLbolgU02PBvycHS4+iVRlHZOcGj1p3Zr2kQnKTW6RkXF0cnZ4xpo7optI7jZKdqI5uqst9LL+3/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEREhAgMkH/2gAIAQIBAT8Az0Q16XZUiSi3/8QAIREAAQIEBwAAAAAAAAAAAAAAAQACAxESExAUICExUVL/2gAIAQMBAT8AxlbkaVUH7Bqst8lCLPlB1KzDu9f/2Q==",
+          "contextInfo": {
+            "expiration": 604800,
+            "ephemeralSettingTimestamp": "1626012934",
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT"
+            }
+          },
+          "scansSidecar": "6ppa/t8OJ9tXLmjHOASQb5jIVoSb00a3cxe9sFaBtai4y4jJydFawA==",
+          "scanLengths": [
+            8603,
+            24918,
+            9518,
+            14432
+          ],
+          "midQualityFileSha256": "Q9wl0lDKaZtVe3GtpqJTwH2DS8JXFo1ePGy+M+EqDJQ="
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "czd52sBpqQtfBw==",
+            "senderTimestamp": "1690980453",
+            "recipientKeyHash": "AEmOT89hObgH2Q==",
+            "recipientTimestamp": "1691973412"
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "descricao": "#3 Exemplo de payload de mensagem privada com texto simples",
+    "payload": {
+      "key": {
+        "remoteJid": "556292066444@s.whatsapp.net",
+        "fromMe": false,
+        "id": "4D8AA8024AFF0A4F6F7F69A574904B65"
+      },
+      "messageTimestamp": 1692198252,
+      "pushName": "Silas Oliveira",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "Olá, tudo bem!?",
+          "previewType": "NONE",
+          "contextInfo": {
+            "expiration": 604800,
+            "ephemeralSettingTimestamp": "1626012934",
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "czd52sBpqQtfBw==",
+            "senderTimestamp": "1690980453",
+            "recipientKeyHash": "AEmOT89hObgH2Q==",
+            "recipientTimestamp": "1691973412"
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    }
+  },
+  {
+    "descricao": "#4 Exemplo de payload de mensagem de grupo com texto simples",
+    "payload": {
+      "key": {
+        "remoteJid": "120363129932199587@g.us",
+        "fromMe": false,
+        "id": "FE24BC8C080A03119EA11BF81973A89C",
+        "participant": "556292296603@s.whatsapp.net"
+      },
+      "messageTimestamp": 1692196591,
+      "pushName": "Luiz Carlos Dias",
+      "broadcast": false,
+      "message": {
+        "conversation": "*Movimentação de Viatura*\nMotorista: Luiz Carlos Dias \nViatura: SCA7J18 (CHEVROLET S-10 Cab. Simples)\nKm Atual: 7138\nMovimento: SAÍDA"
+      }
+    }
+  },
+  {
+    "descricao": "#5 Exemplo de payload de mensagem de texto com comando com 'barra invertida'",
+    "payload": {
+      "key": {
+        "remoteJid": "556292066444@s.whatsapp.net",
+        "fromMe": false,
+        "id": "4C6F118947029BB11C601BE0D90004C8"
+      },
+      "messageTimestamp": 1692199152,
+      "pushName": "Silas Oliveira",
+      "broadcast": false,
+      "message": {
+        "extendedTextMessage": {
+          "text": "\\tecnico nome: Silas; telefone: 62992066444",
+          "previewType": "NONE",
+          "contextInfo": {
+            "expiration": 604800,
+            "ephemeralSettingTimestamp": "1626012934",
+            "disappearingMode": {
+              "initiator": "CHANGED_IN_CHAT"
+            }
+          },
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        },
+        "messageContextInfo": {
+          "deviceListMetadata": {
+            "senderKeyHash": "czd52sBpqQtfBw==",
+            "senderTimestamp": "1690980453",
+            "recipientKeyHash": "AEmOT89hObgH2Q==",
+            "recipientTimestamp": "1691973412"
+          },
+          "deviceListMetadataVersion": 2
+        }
+      }
+    },
+    "argumentos": "nome: Silas; telefone: 62992066444"
+  }
+]

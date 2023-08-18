@@ -1,0 +1,22 @@
+{
+  "whatsappId": "556292066444@s.whatsapp.net",
+  "startDate": "2023-08-18T00:02:04.610Z",
+  "updatedDate": "2023-08-18T00:02:04.612Z",
+  "standbyTime": 0,
+  "status": 1,
+  "request": {
+    "requesterName": "",
+    "businessCNPJ": "",
+    "entitiesId": "undefined",
+    "businessName": "Não Informado",
+    "type": "",
+    "description": ""
+  },
+  "loadFlow": {
+    "step": 1,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Por favor, *escolha uma das seguintes opções* para prosseguir\n  Digite *1* para *Problema*\n  Digite *2* para *Dúvida ou Requisição*"
+    }
+  }
+}

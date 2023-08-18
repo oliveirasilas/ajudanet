@@ -1,0 +1,50 @@
+{
+  "startChat": {
+    "whatsappId": "undefined",
+    "startDate": "1900-01-01T00:00:00.000Z",
+    "updatedDate": "1900-01-01T00:00:00.000Z",
+    "standbyTime": 0,
+    "receivedAnswer": "",
+    "status": 1,
+    "request": {
+      "requesterName": "",
+      "businessCNPJ": "",
+      "entitiesId": "undefined",
+      "businessName": "Não Informado",
+      "type": "",
+      "description": ""
+    },
+    "loadFlow": {
+      "step": 0,
+      "msgToSendType": "buttonsMessage",
+      "msgToSend": {
+        "contentText": "   ",
+        "footerText": "_(Não aceitamos áudios ou anexos, nem ligações)_",
+        "buttons": [
+          {
+            "buttonId": "1",
+            "buttonText": {
+              "displayText": "Problema"
+            },
+            "type": 1
+          },
+          {
+            "buttonId": "2",
+            "buttonText": {
+              "displayText": "Requisição (Dúvidas)"
+            },
+            "type": 1
+          },
+          {
+            "buttonId": "3",
+            "buttonText": {
+              "displayText": "Encerrar o Atendimento"
+            },
+            "type": 1
+          }
+        ],
+        "headerType": 1
+      }
+    }
+  }
+}

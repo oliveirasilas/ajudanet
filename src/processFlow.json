@@ -1,0 +1,58 @@
+[
+  {
+    "step": 0,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Por favor, *escolha uma das seguintes opções* para prosseguir\n  Digite *1* para *Problema*\n  Digite *2* para *Dúvida ou Requisição*"
+    }
+  },
+  {
+    "step": 1,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Certo, você está com *Dúvidas*. Agora, por favor, *qual seu nome?*"
+    }
+  },
+  {
+    "step": 2,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Certo, você está com *Problema*. Agora, por favor, *qual é seu nome?*"
+    }
+  },
+  {
+    "step": 3,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Muito bem, *requesterName*, informe agora o *CNPJ da sua Empresa/Filial*"
+    }
+  },
+  {
+    "step": 4,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "*CNPJ Validado!* Agora, para que possamos registrar sua requisição, escreva uma breve *descrição das dúvidas*."
+    }
+  },
+  {
+    "step": 5,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "*CNPJ Validado!* Agora, para que possamos registrar sua solicitação, escreva uma breve *descrição do problema*."
+    }
+  },
+  {
+    "step": 6,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "requestInfoMessage"
+    }
+  },
+  {
+    "step": 7,
+    "msgToSendType": "textMessage",
+    "msgToSend": {
+      "text": "Atendimento concluído. Obrigado!"
+    }
+  }
+]

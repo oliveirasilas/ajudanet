@@ -1,0 +1,236 @@
+[
+  {
+    "id": "26",
+    "cnpj": "07.116.306/0035-04",
+    "businessName": "AMPARO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "27",
+    "cnpj": "11.402.665/0001-48",
+    "businessName": "ANA ROSA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "21",
+    "cnpj": "07.116.306/0034-15",
+    "businessName": "ATIBAIA 1",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "38",
+    "cnpj": "07.116.306/0040-63",
+    "businessName": "AUGUSTA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "23",
+    "cnpj": "07.116.306/0006-61",
+    "businessName": "BRAS MARCOLINA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "28",
+    "cnpj": "07.116.306/0027-96",
+    "businessName": "BRAS ORIENTE",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "6",
+    "cnpj": "07.116.306/0024-43",
+    "businessName": "CACHOEIRINHA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "34",
+    "cnpj": "07.116.306/0033-34",
+    "businessName": "CAIEIRAS 2",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "39",
+    "cnpj": "07.116.306/0041-44",
+    "businessName": "CB",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "16",
+    "cnpj": "07.116.306/0004-08",
+    "businessName": "CENTRO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "37",
+    "cnpj": "07.116.306/0038-49",
+    "businessName": "DIADEMA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "35",
+    "cnpj": "07.116.306/0037-68",
+    "businessName": "FARIA LIMA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "33",
+    "cnpj": "07.116.306/0018-03",
+    "businessName": "FERRAZ DE VASCONCELOS",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "8",
+    "cnpj": "07.116.306/0030-91",
+    "businessName": "FRANCO 1",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "22",
+    "cnpj": "07.116.306/0029-58",
+    "businessName": "FRANCO 2",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "24",
+    "cnpj": "07.116.306/0028-77",
+    "businessName": "GUARUJÁ",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "17",
+    "cnpj": "07.116.306/0021-09",
+    "businessName": "GUARULHOS 1",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "31",
+    "cnpj": "07.116.306/0022-81",
+    "businessName": "GUARULHOS 2",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "32",
+    "cnpj": "07.116.306/0023-62",
+    "businessName": "GUARULHOS 3",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "36",
+    "cnpj": "07.116.306/0039-20",
+    "businessName": "GUARULHOS 4",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "29",
+    "cnpj": "07.116.306/0031-72",
+    "businessName": "MARIPORÃ",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "7",
+    "cnpj": "07.116.306/0001-57",
+    "businessName": "MATRIZ",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "18",
+    "cnpj": "07.116.306/0002-38",
+    "businessName": "MAUÁ",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "9",
+    "cnpj": "07.116.306/0026-05",
+    "businessName": "MOOCA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "13",
+    "cnpj": "07.116.306/0003-19",
+    "businessName": "PINHEIROS",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "11",
+    "cnpj": "07.116.306/0020-10",
+    "businessName": "PRAÇA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "12",
+    "cnpj": "07.116.306/0019-86",
+    "businessName": "RIO CLARO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "10",
+    "cnpj": "07.116.306/0008-23",
+    "businessName": "SANTANA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "15",
+    "cnpj": "07.116.306/0009-04",
+    "businessName": "SANTO AMARO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "14",
+    "cnpj": "07.116.306/0012-00",
+    "businessName": "SANTO ANDRÉ",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "19",
+    "cnpj": "07.116.306/0011-29",
+    "businessName": "SANTOS",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "25",
+    "cnpj": "07.116.306/0017-14",
+    "businessName": "SÃO BERNARDO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "20",
+    "cnpj": "07.116.306/0007-42",
+    "businessName": "TUCURUVI",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "40",
+    "cnpj": "07.116.306/0042-25",
+    "businessName": "VERGUEIRO",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "30",
+    "cnpj": "07.116.306/0025-24",
+    "businessName": "VILA MARIA",
+    "glpiServer": "Srv1"
+  },
+  {
+    "id": "4",
+    "cnpj": "02.183.7830021-65",
+    "businessName": "SUMIRE SHOP ARICANDUVA",
+    "glpiServer": "Srv2"
+  },
+  {
+    "id": "3",
+    "cnpj": "02.183.7830018-60",
+    "businessName": "SUMIRE STA CRUZ",
+    "glpiServer": "Srv2"
+  },
+  {
+    "id": "5",
+    "cnpj": "02.183.7830022-46",
+    "businessName": "SUMIRE MATEO BEI",
+    "glpiServer": "Srv2"
+  },
+  {
+    "id": "6",
+    "cnpj": "02.183.7830017-89",
+    "businessName": "SUMIRE BARAO",
+    "glpiServer": "Srv2"
+  }
+]
